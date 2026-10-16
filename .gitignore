@@ -1,0 +1,15 @@
+.DS_Store
+dist/
+.build/
+.swiftpm/
+.codebase-memory/
+work/
+*.app/
+*.zip
+*.log
+.env
+.env.*
+!.env.example
+device-names.json
+adbkey*
+adb_known_hosts.pb

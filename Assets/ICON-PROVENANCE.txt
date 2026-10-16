@@ -1,0 +1,5 @@
+生成方式：OpenAI 内置 imagegen。
+原始图标：Assets/AppIcon.png；构建时生成所有 macOS 图标尺寸并写入应用 AppIcon.icns。
+
+生成提示词：
+Use case: logo-brand. Asset type: one production macOS desktop application icon, square 1024x1024. Primary request: a beautifully crafted icon for a small Android wireless debugging connection utility. A friendly, precise three-dimensional midnight-blue smartphone standing upright, with a small vivid green wireless signal motif integrated above the screen, on a softly bevelled pale ceramic macOS rounded-square tile. Strong simple silhouette, centered, generous safe padding, readable at Dock sizes, refined subtle depth and studio light. The phone is an Android-style rectangle without a notch. No words, no letters, no numerals, no cable, no robot mascot, no extra objects, no watermark, no mockup environment. The entire image is the icon asset. Background outside the rounded-square tile must be transparent.
